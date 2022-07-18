@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+- If encounter this when run:
+Exception: Unable to generate build files
+
+Upon upgrading from Visual Studio 2019 to 2022, we need to delete CMakeCache.txt in application builds, or we'll encounter a build failure.
+
+Quick fix:
+- flutter clean
+- flutter run
+to rebuild the app without fails
