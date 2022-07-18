@@ -1,4 +1,4 @@
-# flutter_test_again
+# Flutter App that Generate English Word Pairs
 
 A new Flutter project.
 
