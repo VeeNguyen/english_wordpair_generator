@@ -23,6 +23,7 @@ Upon upgrading from Visual Studio 2019 to 2022, we need to delete CMakeCache.txt
 Quick fix:
 - flutter clean
 - flutter run
+
 to rebuild the app without fails
 
 
