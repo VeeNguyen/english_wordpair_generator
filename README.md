@@ -24,3 +24,6 @@ Quick fix:
 - flutter clean
 - flutter run
 to rebuild the app without fails
+
+
+![alt text](https://github.com/VeeNguyen/english_wordpair_generator/blob/main/example_pic1.png)
