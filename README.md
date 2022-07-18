@@ -27,3 +27,4 @@ to rebuild the app without fails
 
 
 ![alt text](https://github.com/VeeNguyen/english_wordpair_generator/blob/main/example_pic1.png)
+![alt text](https://github.com/VeeNguyen/english_wordpair_generator/blob/main/example_pic2.png)
